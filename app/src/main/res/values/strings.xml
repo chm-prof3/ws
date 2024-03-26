@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="Text">Create an account</string>
+    <string name="Text2">Complete the sign up process to get started</string>
+    <string name="Text3">Full name</string>
+    <string name="Text4">Phone number</string>
+    <string name="btn_sing">Sing Up</string>
+    <string name="Text5">Welcome Back</string>
+    <string name="Text6">Fill in your email and password to continue</string>
+    <string name="btn_log">Log in</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Text7">Forgot Password</string>
+    <string name="Text8">Enter your email address</string>
+    <string name="btn_send">Send OTP</string>
+    <string name="Text9">New Password</string>
+    <string name="Text10">Enter new password</string>
+    <string name="btn_set">Set New Password</string>
+</resources>
